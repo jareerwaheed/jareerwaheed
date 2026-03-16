@@ -1,4 +1,4 @@
-<h1>Hi there, I am <a href="https://github.com/jareerwaheed257" target="_blank">Jareer Waheed</a> 🙋🏽‍♂️</h1>
+<h1>Hi there, I am <a href="https://github.com/jareerwaheed" target="_blank">Jareer Waheed</a> 🙋🏽‍♂️</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jareerwaheed257)
 
@@ -43,28 +43,28 @@ Currently building expert-level skills in AI/ML, Big Data, Cloud integration, an
 
 **EDA on Sales Dataset**  
 - Cleaned, visualized, and extracted actionable insights from sales data  
-- [GitHub Repo](https://github.com/jareerwaheed257/EDA-Sales)  
+- [GitHub Repo](https://github.com/jareerwaheed/EDA-Sales)  
 
 **House Price Prediction ML Model**  
 - Regression model predicting house prices with ~85% accuracy  
-- [GitHub Repo](https://github.com/jareerwaheed257/ML-HousingPrice)  
+- [GitHub Repo](https://github.com/jareerwaheed/ML-HousingPrice)  
 
 **Time Series Forecasting**  
 - Forecasted stock prices using ARIMA & Prophet  
-- [GitHub Repo](https://github.com/jareerwaheed257/TimeSeries-StockForecasting)  
+- [GitHub Repo](https://github.com/jareerwaheed/TimeSeries-StockForecasting)  
 
 **NLP Sentiment Analysis**  
 - Built a sentiment analysis model on social media data using Python & NLP  
-- [GitHub Repo](https://github.com/jareerwaheed257/NLP-SentimentAnalysis)  
+- [GitHub Repo](https://github.com/jareerwaheed/NLP-SentimentAnalysis)  
 
 **Dashboard / BI Reporting**  
 - Tableau & Power BI dashboards with interactive visualizations  
-- [GitHub Repo](https://github.com/jareerwaheed257/BI-Dashboards)  
+- [GitHub Repo](https://github.com/jareerwaheed/BI-Dashboards)  
 
 ---
 
 ## 🏆 GitHub Stats
-![Jarreer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jareerwaheed257&show_icons=true&theme=radical)
+![Jarreer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jareerwaheed&show_icons=true&theme=radical)
 
 ---
 
