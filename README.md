@@ -1,57 +1,74 @@
-# Hi there, I am Jarry 👋
-**Aspiring Data Scientist | Python, SQL, Machine Learning, Data Visualization**
+<h1>Hi there, I am <a href="https://github.com/jareerwaheed257" target="_blank">Jareer Waheed</a> 🙋🏽‍♂️</h1>
 
-I am currently building a strong portfolio of Data Science and AI/ML projects. I love turning complex datasets into beautiful, actionable stories.
+![](https://visitor-badge.glitch.me/badge?page_id=jareerwaheed257)
 
----
+<img align='right' src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="230">
 
-## 🛠 Skills
-
-### 🐍 Programming & Data Handling
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>&nbsp;
-</p>
-
-### 🤖 Machine Learning & AI
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>&nbsp;
-</p>
-
-### 📊 Visualization & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>&nbsp;
-</p>
+I am an enthusiastic Data Scientist passionate about Python, SQL, Machine Learning, and Data Visualization.  
+Currently building expert-level skills in AI/ML, Big Data, Cloud integration, and BI tools through hands-on projects and portfolio work.
 
 ---
 
-## 📂 Featured Projects
+## 🛠 My Skills
 
-### 📈 [EDA on Sales Dataset](https://github.com/yourusername/EDA-Sales)
-*Performed deep-dive analysis on retail data to identify seasonal trends.*
-- **Tech:** Pandas, Matplotlib, Seaborn.
-- **Result:** Identified a 20% drop in Q3 sales, leading to strategic inventory adjustments.
+**Programming Languages & Tools**  
+<img alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> | <img alt="SQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> | <img alt="R" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"/> | <img alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/>  
+|--|--|--|--|  
 
-### 🏠 [House Price Prediction](https://github.com/yourusername/ML-HousingPrice)
-*End-to-end Machine Learning pipeline to predict real estate prices.*
-- **Tech:** Scikit-Learn, XGBoost, Feature Engineering.
-- **Metric:** Achieved 85% R-Squared accuracy.
+**Machine Learning & AI**  
+- Supervised Learning: Regression, Classification  
+- Unsupervised Learning: Clustering, PCA  
+- Feature Engineering & Model Evaluation  
+- Deep Learning (Neural Networks, Keras, TensorFlow)  
+- Natural Language Processing (NLP) & Time Series  
 
-### 📉 [Time Series Forecasting](https://github.com/yourusername/TimeSeries-StockForecasting)
-*Forecasting market trends using advanced statistical models.*
-- **Tech:** ARIMA, FBProphet.
+**Data Handling & Visualization**  
+<img alt="Pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/> | <img alt="NumPy" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/> | <img alt="Matplotlib" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"/> | <img alt="Seaborn" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg"/>  
+|--|--|--|--|  
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- BI Tools: Tableau, Power BI  
+
+**Cloud & Deployment**  
+- AWS / GCP basics for ML model deployment  
+- Docker (basic containerization for ML pipelines)  
+
+**Version Control & Automation**  
+<img alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> | <img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/> | Python Automation Pipelines  
+|--|--|--|  
 
 ---
 
-## 📊 My GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Jarry's Stats" />
-</p>
+## 📂 Projects
+
+**EDA on Sales Dataset**  
+- Cleaned, visualized, and extracted actionable insights from sales data  
+- [GitHub Repo](https://github.com/jareerwaheed257/EDA-Sales)  
+
+**House Price Prediction ML Model**  
+- Regression model predicting house prices with ~85% accuracy  
+- [GitHub Repo](https://github.com/jareerwaheed257/ML-HousingPrice)  
+
+**Time Series Forecasting**  
+- Forecasted stock prices using ARIMA & Prophet  
+- [GitHub Repo](https://github.com/jareerwaheed257/TimeSeries-StockForecasting)  
+
+**NLP Sentiment Analysis**  
+- Built a sentiment analysis model on social media data using Python & NLP  
+- [GitHub Repo](https://github.com/jareerwaheed257/NLP-SentimentAnalysis)  
+
+**Dashboard / BI Reporting**  
+- Tableau & Power BI dashboards with interactive visualizations  
+- [GitHub Repo](https://github.com/jareerwaheed257/BI-Dashboards)  
+
+---
+
+## 🏆 GitHub Stats
+![Jarreer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jareerwaheed257&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/jareer-waheed-63456b325/)  
+[<img align="left" alt="Kaggle" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg"/>](https://www.kaggle.com/jareer257)  
+[<img align="left" alt="Email" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg"/>](mailto:jareerwaheed257@gmail.com)
