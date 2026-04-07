@@ -39,30 +39,6 @@ Currently building expert-level skills in AI/ML, Big Data, Cloud integration, an
 
 ---
 
-## 📂 Projects
-
-**EDA on Sales Dataset**  
-- Cleaned, visualized, and extracted actionable insights from sales data  
-- [GitHub Repo](https://github.com/jareerwaheed/EDA-Sales)  
-
-**House Price Prediction ML Model**  
-- Regression model predicting house prices with ~85% accuracy  
-- [GitHub Repo](https://github.com/jareerwaheed/ML-HousingPrice)  
-
-**Time Series Forecasting**  
-- Forecasted stock prices using ARIMA & Prophet  
-- [GitHub Repo](https://github.com/jareerwaheed/TimeSeries-StockForecasting)  
-
-**NLP Sentiment Analysis**  
-- Built a sentiment analysis model on social media data using Python & NLP  
-- [GitHub Repo](https://github.com/jareerwaheed/NLP-SentimentAnalysis)  
-
-**Dashboard / BI Reporting**  
-- Tableau & Power BI dashboards with interactive visualizations  
-- [GitHub Repo](https://github.com/jareerwaheed/BI-Dashboards)  
-
----
-
 ## 🏆 GitHub Stats
 ![Jarreer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jareerwaheed&show_icons=true&theme=radical)
 
